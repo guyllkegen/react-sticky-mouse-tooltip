@@ -1,5 +1,5 @@
 {
-  "name": "react-sticky-mouse-tooltip",
+  "name": "guyllkegen-react-sticky-mouse-tooltip",
   "version": "0.0.1",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
